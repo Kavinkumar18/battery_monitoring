@@ -20,7 +20,7 @@ function useMockCurrentVoltage(batteryId: number) {
 
   // Mock function to generate a random voltage value
   function generateRandomVoltage() {
-    return (Math.random() * (14.4 - 11.6) + 11.6).toFixed(2); // Generates a voltage between 11.6V and 14.4V
+    return (Math.random() * (6 - 3) + 3).toFixed(2); // Generates a voltage between 11.6V and 14.4V
   }
 
   return voltage;

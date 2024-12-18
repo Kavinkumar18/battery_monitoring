@@ -28,25 +28,25 @@ const items = [
       {
         title: "Cell 1",
         icon: Battery,
-        dbPath: "battery/voltage/1",
+        dbPath: "battery/voltage/cell1",
         label: "Voltage",
       },
       {
         title: "Cell 2",
         icon: Battery,
-        dbPath: "battery/voltage/2",
+        dbPath: "battery/voltage/cell2",
         label: "Voltage",
       },
       {
         title: "Cell 3",
         icon: Battery,
-        dbPath: "battery/voltage/3",
+        dbPath: "battery/voltage/cell3",
         label: "Voltage",
       },
       {
         title: "Cell 4",
         icon: Battery,
-        dbPath: "battery/voltage/4",
+        dbPath: "battery/voltage/cell4",
         label: "Voltage",
       },
       {
